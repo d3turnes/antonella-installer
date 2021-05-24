@@ -1,0 +1,27 @@
+{
+    "name": "d3turnes/antonella-installer",
+    "description": "Antonella Framework Official Installer.",
+    "keywords": ["framework", "wordpress", "plugins", "installer"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Turnes",
+            "email": "d3turnes@gmail.com"
+			"homepage": "https://github.com/d3turnes",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "D3turnes\\AntonellaInstaller\\Console\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~4.0|~5.0|~6.0",
+        "symfony/console": "~2.3|~3.0",
+        "symfony/process": "~2.3|~3.0"
+    },
+    "bin": [
+        "antonella"
+    ]
+}
