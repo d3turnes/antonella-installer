@@ -1,8 +1,11 @@
 {
     "name": "d3turnes/antonella-installer",
+	"version": "1.0",
     "description": "Antonella Framework Official Installer.",
     "keywords": ["framework", "wordpress", "plugins", "installer"],
-    "license": "MIT",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+	"license": "MIT",
     "authors": [
         {
             "name": "David Turnes",
