@@ -6,12 +6,19 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
 	"license": "MIT",
-    "authors": [
+    "type": "project",
+	"authors": [
         {
             "name": "David Turnes",
             "email": "d3turnes@gmail.com",
 			"homepage": "https://github.com/d3turnes",
             "role": "Developer"
+        }
+    ],
+	"repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
         }
     ],
     "autoload": {
