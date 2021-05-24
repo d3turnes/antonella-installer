@@ -1,6 +1,6 @@
 ![Antonella Framework](https://antonellaframework.com/wp-content/uploads/2018/06/anonella-repositorio.png)
 
-[![Total Downloads](https://poser.pugx.org/d3turnes/antonella-installer/downloads)](https://packagist.org/packages/d3turnes/antonella-installer)
+[![Total Downloads](https://poser.pugx.org/d3turnes/antonella-installer/downloads)](https://packagist.org/packages/d3turnes/antonella-installer/stats)
 [![Latest Unstable Version](https://poser.pugx.org/d3turnes/antonella-installer/v/unstable)](https://packagist.org/packages/d3turnes/antonella-installer)
 [![License](https://poser.pugx.org/d3turnes/antonella-installer/license)](https://packagist.org/packages/d3turnes/antonella-installer)
 
